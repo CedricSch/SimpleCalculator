@@ -1,1 +1,0 @@
-/bin/x86_64-linux-gnu-g++-10  -g   CMakeFiles/cmake-good.dir/main.cpp.o  -o cmake-good 
