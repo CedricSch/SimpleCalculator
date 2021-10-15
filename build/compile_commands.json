@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cedric/dev/recursive_decent_parser/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/cmake-good.dir/main.cpp.o -c /home/cedric/dev/recursive_decent_parser/main.cpp",
+  "file": "/home/cedric/dev/recursive_decent_parser/main.cpp"
+}
+]
