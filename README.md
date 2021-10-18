@@ -7,6 +7,9 @@ Implementing recursive decent parser for simple math expressions
 - Delete Genders
 - Modify Genders
 - Add Genders
+- Add rubber duck
+- Get on my level
+
 
 # Genitalia-Italia*innen
 Für sein(e)/ihr(e) Vergnügen
