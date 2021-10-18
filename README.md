@@ -10,6 +10,8 @@ Implementing recursive decent parser for simple math expressions
 - Add rubber duck
 - Get on my level
 - minusmenschentodo
+- Milchaufschäumer sind komplett unnötig.
+
 
 # Genitalia-Italia*innen
 Für sein(e)/ihr(e) Vergnügen
