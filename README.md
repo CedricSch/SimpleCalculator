@@ -13,6 +13,7 @@ Implementing recursive decent parser for simple math expressions
 - Milchaufschäumer sind komplett unnötig.
 - milchaufschäumer sind cool
 - milchaufschäumer sind das letzte
+- NORWEEEGEEEEEN!!!!!
 
 
 # Genitalia-Italia*innen
