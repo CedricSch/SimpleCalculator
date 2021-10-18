@@ -12,7 +12,7 @@ Implementing recursive decent parser for simple math expressions
 - minusmenschentodo
 - Milchaufschäumer sind komplett unnötig.
 - milchaufschäumer sind cool
-- neustes und letztes todo
+- milchaufschäumer sind das letzte
 
 
 # Genitalia-Italia*innen
